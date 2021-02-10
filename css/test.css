@@ -1,0 +1,140 @@
+body{background-color: slategray;
+    font-family:'Lucida Grande';
+    margin: 0%;
+}
+
+.navbar{
+    /* border: blue solid 5px; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    font-family:'Lucida Grande';
+    font-size: 30px;
+    font-weight: bold;  
+}
+
+.backgroundimg{
+    /* border: springgreen solid 5px; */
+    display: flex;
+    object-fit: fill;  
+    object-position: center top;
+    
+}
+
+.footeraddress{
+    /* border: black solid 5px; */
+    font-family:'Lucida Grande';   
+    margin: 20px;
+}
+
+
+.footersocial{
+    display:flex;
+    justify-content:center;
+    /* border: yellow solid 5px;    */
+}
+
+
+
+.contact{
+    /* border: blue solid 5px; */
+    width: 50%;
+}
+
+.contactadd{
+    width: 50%;
+}
+
+.container1{
+    display: flex;
+    justify-content: right;
+    margin: 20px;
+}
+
+.smallimg{
+    size: 20%;
+    /* border: blue dotted 5px; */
+}
+
+.dryhire{
+    display: flex;
+    /* border: black dotted 5px; */
+    text-align: center;
+}
+
+
+
+.titlebox{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    position: relative;
+}
+
+
+
+
+.text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.gallery{
+    margin: 20px;
+}
+
+.newsart{
+    /* border: blue solid 5px; */
+    display:flex;
+    flex-direction: column;
+}
+
+
+.newsimg{
+    /* border: white solid 5px; */
+    width: 50%;
+}
+
+.newsimg2{
+    /* width: 100%; */
+    margin-left: 60px;
+}
+
+.art1, .art2{
+    /* border: tomato solid 5px; */
+    width:50%;
+}
+
+.story1, .story2 {
+    /* border:pink solid 10px; */
+    display:flex;
+    margin-right: 20px;
+}    
+
+.story3{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    /* border: blue solid 5px; */
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.brixtonimg{
+    width: 80%;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+/* ----------------------------------------------------- */
+
+
